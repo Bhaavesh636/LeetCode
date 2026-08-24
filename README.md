@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Two Pointers
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Factorization
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
@@ -48,9 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
