@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0001-two-sum) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Number Theory
 |  |
