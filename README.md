@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bhaavesh636/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0866-prime-palindrome) |
