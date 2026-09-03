@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Bhaavesh636/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Bhaavesh636/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
