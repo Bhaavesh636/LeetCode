@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
+| [1480-running-sum-of-1d-array](https://github.com/Bhaavesh636/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Bhaavesh636/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
