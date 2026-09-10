@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Bhaavesh636/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhaavesh636/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhaavesh636/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Bhaavesh636/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0866-prime-palindrome) |
