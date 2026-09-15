@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Bhaavesh636/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Bhaavesh636/LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhaavesh636/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Bhaavesh636/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhaavesh636/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
