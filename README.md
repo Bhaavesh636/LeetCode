@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhaavesh636/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Bhaavesh636/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Bhaavesh636/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhaavesh636/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Bhaavesh636/LeetCode/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Bhaavesh636/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
