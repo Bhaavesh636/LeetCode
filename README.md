@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0648-replace-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
+| [1143-longest-common-subsequence](https://github.com/Bhaavesh636/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Bhaavesh636/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Prefix Sum
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Bhaavesh636/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -530,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Bhaavesh636/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
