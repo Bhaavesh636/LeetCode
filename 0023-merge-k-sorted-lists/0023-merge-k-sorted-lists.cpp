@@ -8,35 +8,46 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, 
-            function<bool(ListNode*, ListNode*)>> pq(
-                [](ListNode* a, ListNode* b) {
-                    return a->val > b->val;
-                }
-            );
-
-        for (auto list : lists) {
-            if (list != nullptr)
-                pq.push(list);
-        }
-
+    ListNode* merge(ListNode* a, ListNode* b) {
         ListNode dummy(0);
         ListNode* tail = &dummy;
 
-        while (!pq.empty()) {
-            ListNode* node = pq.top();
-            pq.pop();
+        while (a && b) {
+            if (a->val <= b->val) {
+                tail->next = a;
+                a = a->next;
+            } else {
+                tail->next = b;
+                b = b->next;
+            }
 
-            tail->next = node;
             tail = tail->next;
-
-            if (node->next != nullptr)
-                pq.push(node->next);
         }
 
+        tail->next = a ? a : b;
+
         return dummy.next;
+    }
+
+    ListNode* divide(vector<ListNode*>& lists, int low, int high) {
+        if (low > high)
+            return nullptr;
+
+        if (low == high)
+            return lists[low];
+
+        int mid = low + (high - low) / 2;
+
+        ListNode* left = divide(lists, low, mid);
+        ListNode* right = divide(lists, mid + 1, high);
+
+        return merge(left, right);
+    }
+
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        return divide(lists, 0, lists.size() - 1);
     }
 };
