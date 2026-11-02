@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhaavesh636/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
 ## Divide and Conquer
@@ -505,10 +507,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
