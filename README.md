@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Bhaavesh636/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/Bhaavesh636/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhaavesh636/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0866-prime-palindrome) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Two Pointers
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Bhaavesh636/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/Bhaavesh636/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Backtracking
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Bhaavesh636/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Merge Sort
 |  |
@@ -391,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -461,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
