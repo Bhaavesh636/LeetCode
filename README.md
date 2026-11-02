@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
+| [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
 | [0648-replace-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Bhaavesh636/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bhaavesh636/LeetCode/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
+| [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
 | [0866-prime-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -470,9 +472,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
