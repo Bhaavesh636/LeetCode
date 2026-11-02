@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhaavesh636/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0283-move-zeroes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhaavesh636/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
+| [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 ## String
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Bhaavesh636/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhaavesh636/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0290-word-pattern) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Bhaavesh636/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
