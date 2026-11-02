@@ -1,17 +1,31 @@
+
 class Solution {
 public:
-    unordered_map<int,int>mp;
+    int majority(vector<int>& nums, int low, int high) {
+        if (low == high)
+            return nums[low];
+
+        int mid = low + (high - low) / 2;
+
+        int left = majority(nums, low, mid);
+        int right = majority(nums, mid + 1, high);
+
+        if (left == right)
+            return left;
+
+        int leftCount = 0, rightCount = 0;
+
+        for (int i = low; i <= high; i++) {
+            if (nums[i] == left)
+                leftCount++;
+            else if (nums[i] == right)
+                rightCount++;
+        }
+
+        return leftCount > rightCount ? left : right;
+    }
+
     int majorityElement(vector<int>& nums) {
-        for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
-        }
-
-        for(auto x : mp){
-            if(x.second > nums.size()/2){
-                return x.first;
-            }
-        }
-
-        return -1;
+        return majority(nums, 0, nums.size() - 1);
     }
 };
