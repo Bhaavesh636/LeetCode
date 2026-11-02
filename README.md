@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Bhaavesh636/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhaavesh636/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0290-word-pattern) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Bhaavesh636/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
@@ -437,9 +439,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
