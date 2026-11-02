@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bhaavesh636/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -357,18 +358,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
