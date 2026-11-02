@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhaavesh636/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhaavesh636/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0283-move-zeroes) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhaavesh636/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Bhaavesh636/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Bhaavesh636/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 ## Divide and Conquer
