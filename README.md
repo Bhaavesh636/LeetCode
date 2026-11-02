@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Bhaavesh636/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhaavesh636/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0202-happy-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Bhaavesh636/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhaavesh636/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhaavesh636/LeetCode/tree/master/0242-valid-anagram) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhaavesh636/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhaavesh636/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhaavesh636/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhaavesh636/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhaavesh636/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhaavesh636/LeetCode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
