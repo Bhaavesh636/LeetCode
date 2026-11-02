@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
 | [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0648-replace-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Bhaavesh636/LeetCode/tree/master/0686-repeated-string-match) |
 | [1268-search-suggestions-system](https://github.com/Bhaavesh636/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
 ## Divide and Conquer
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -518,4 +522,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
