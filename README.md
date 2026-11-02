@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhaavesh636/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bhaavesh636/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bhaavesh636/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhaavesh636/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Bhaavesh636/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0202-happy-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bhaavesh636/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bhaavesh636/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0169-majority-element) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhaavesh636/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Bhaavesh636/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhaavesh636/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0187-repeated-dna-sequences) |
