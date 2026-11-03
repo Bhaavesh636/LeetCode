@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Bhaavesh636/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhaavesh636/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhaavesh636/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
 ## String
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Heap (Priority Queue)
