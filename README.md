@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Bhaavesh636/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Bhaavesh636/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bhaavesh636/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/Bhaavesh636/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 ## Design
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Bhaavesh636/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Bhaavesh636/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhaavesh636/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -600,4 +604,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhaavesh636/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
