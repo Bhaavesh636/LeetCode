@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhaavesh636/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhaavesh636/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Bhaavesh636/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Bhaavesh636/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhaavesh636/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhaavesh636/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhaavesh636/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Bhaavesh636/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Bhaavesh636/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Bhaavesh636/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhaavesh636/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Bhaavesh636/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhaavesh636/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Bhaavesh636/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhaavesh636/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhaavesh636/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
@@ -695,8 +698,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Bhaavesh636/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Bhaavesh636/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhaavesh636/LeetCode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Bhaavesh636/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Bhaavesh636/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
