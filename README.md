@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhaavesh636/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhaavesh636/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
 | [0905-sort-array-by-parity](https://github.com/Bhaavesh636/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhaavesh636/LeetCode/tree/master/0055-jump-game) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhaavesh636/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhaavesh636/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
 |  |
