@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Bhaavesh636/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhaavesh636/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Bhaavesh636/LeetCode/tree/master/0139-word-break) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Bhaavesh636/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Bhaavesh636/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhaavesh636/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Bhaavesh636/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Bhaavesh636/LeetCode/tree/master/0198-house-robber) |
