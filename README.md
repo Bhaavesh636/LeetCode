@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
+| [0566-reshape-the-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhaavesh636/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0648-replace-words) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhaavesh636/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Bhaavesh636/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhaavesh636/LeetCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0867-transpose-matrix) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhaavesh636/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Bhaavesh636/LeetCode/tree/master/1920-build-array-from-permutation) |
