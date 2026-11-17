@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bhaavesh636/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Bhaavesh636/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Bhaavesh636/LeetCode/tree/master/0326-power-of-three) |
 | [0587-erect-the-fence](https://github.com/Bhaavesh636/LeetCode/tree/master/0587-erect-the-fence) |
 | [0866-prime-palindrome](https://github.com/Bhaavesh636/LeetCode/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Bhaavesh636/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Bhaavesh636/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Bhaavesh636/LeetCode/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
