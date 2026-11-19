@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhaavesh636/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bhaavesh636/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Bhaavesh636/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Bhaavesh636/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Bhaavesh636/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
@@ -776,4 +777,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bhaavesh636/LeetCode/tree/master/0164-maximum-gap) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Bhaavesh636/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Bhaavesh636/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
