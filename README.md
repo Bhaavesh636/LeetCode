@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Bhaavesh636/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Bhaavesh636/LeetCode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhaavesh636/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Bhaavesh636/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Bhaavesh636/LeetCode/tree/master/0383-ransom-note) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhaavesh636/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhaavesh636/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Bhaavesh636/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhaavesh636/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhaavesh636/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhaavesh636/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhaavesh636/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhaavesh636/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/Bhaavesh636/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhaavesh636/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bhaavesh636/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -495,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Bhaavesh636/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhaavesh636/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## String Matching
 |  |
