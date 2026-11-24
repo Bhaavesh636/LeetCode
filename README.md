@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Bhaavesh636/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhaavesh636/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
+| [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bhaavesh636/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Bhaavesh636/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0509-fibonacci-number) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Bhaavesh636/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -856,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
