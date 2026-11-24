@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bhaavesh636/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Bhaavesh636/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
@@ -829,4 +830,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Bhaavesh636/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
