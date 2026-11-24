@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Bhaavesh636/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Bhaavesh636/LeetCode/tree/master/0648-replace-words) |
 | [0695-max-area-of-island](https://github.com/Bhaavesh636/LeetCode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Bhaavesh636/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bhaavesh636/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Bhaavesh636/LeetCode/tree/master/0733-flood-fill) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaavesh636/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0518-coin-change-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhaavesh636/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhaavesh636/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Bhaavesh636/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Bhaavesh636/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0268-missing-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhaavesh636/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Bhaavesh636/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -840,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhaavesh636/LeetCode/tree/master/0037-sudoku-solver) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
