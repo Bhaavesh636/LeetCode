@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhaavesh636/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Bhaavesh636/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Bhaavesh636/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1920-build-array-from-permutation](https://github.com/Bhaavesh636/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bhaavesh636/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Bhaavesh636/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Bhaavesh636/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## String
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhaavesh636/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhaavesh636/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Bhaavesh636/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Bhaavesh636/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhaavesh636/LeetCode/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -849,4 +853,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
