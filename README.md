@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Bhaavesh636/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Bhaavesh636/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1920-build-array-from-permutation](https://github.com/Bhaavesh636/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bhaavesh636/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Bhaavesh636/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Bhaavesh636/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Divide and Conquer
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -863,18 +866,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Bhaavesh636/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bhaavesh636/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Bhaavesh636/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Hungarian Algorithm
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Bipartite Graph
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Bhaavesh636/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Bhaavesh636/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matching (Graph)
 |  |
